@@ -408,6 +408,7 @@ nav {
   }
   .footer-wrapper {
     flex-direction: column;
+    text-align: center
   }
   .footer-section-two {
     flex-direction: column;
