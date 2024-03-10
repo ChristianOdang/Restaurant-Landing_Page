@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Home from './components/Home'
 import About from './components/About'
+import Work from './components/Work'
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className='App'>
       <Home />
       <About />
+      <Work />
     </div>
   )
 }
